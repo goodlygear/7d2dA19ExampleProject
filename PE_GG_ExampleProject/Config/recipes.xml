@@ -1,0 +1,9 @@
+﻿<configs>
+	<append xpath="/recipes">
+		<recipe name="GG_PE_ExampleObjectsVar" count="1" craft_time="5" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceForgedIron" count="2"/>
+			<ingredient name="resourceElectricParts" count="2"/>
+		</recipe>
+
+	</append>
+</configs>
